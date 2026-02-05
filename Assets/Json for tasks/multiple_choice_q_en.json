@@ -1,0 +1,553 @@
+{
+  "meta": {
+    "version": 1,
+    "locale": "en",
+    "type": "mcq"
+  },
+  "questions": [
+    {
+      "id": "q001",
+      "age_group": 3,
+      "prompt": "What should you do if you receive a message from an unknown person asking for personal photos?",
+      "options": [
+        "Reply out of curiosity",
+        "Send a \"safe\" picture",
+        "Ignore it and report it to a trusted adult or platform"
+      ],
+      "correct_index": 2,
+      "help": "Such messages may be attempts at scams or extortion (sextortion). Even if a picture seems \"innocent,\" it can be misused later. Therefore, always report it to a parent, teacher, or appropriate institution, and never share personal material."
+    },
+    {
+      "id": "q002",
+      "age_group": 3,
+      "prompt": "What does the term 'Phishing' mean?",
+      "options": [
+        "Safe surfing and searching on the internet",
+        "A technique for stealing personal information through fake messages or websites",
+        "A type of antivirus program that deletes malicious files",
+        "A process for assigning and verifying user accounts"
+      ],
+      "correct_index": 1,
+      "help": "Phishing is a scam where an attacker sends messages or creates fake pages that look legitimate to obtain passwords, credit card data, or other personal information. Often these messages use urgent warnings and links leading to fake forms — always check the sender, hover over links before clicking, and do not open suspicious attachments."
+    },
+    {
+      "id": "q003",
+      "age_group": 2,
+      "prompt": "If someone posts a private photo of you without permission, what should you do?",
+      "options": [
+        "Ask them to delete it",
+        "Ignore the situation",
+        "Report it to the platform and to the police or a trusted institution",
+        "Post something similar for revenge"
+      ],
+      "correct_index": 2,
+      "help": "Sharing intimate material without consent is abuse and a criminal offense. Don't try to solve it yourself — seek help from an adult, report it to the platform (Facebook, Instagram, TikTok have mechanisms for this) and to the competent institutions. Your dignity and privacy are important and protected by law."
+    },
+    {
+      "id": "q035",
+      "age_group": 3,
+      "prompt": "If someone posts a private photo of you without permission, what should you do?",
+      "options": [
+        "Ask them to delete it",
+        "Ignore the situation",
+        "Report it to the platform and to the police or a trusted institution",
+        "Post something similar for revenge"
+      ],
+      "correct_index": 2,
+      "help": "Sharing intimate material without consent is abuse and a criminal offense. Don't try to solve it yourself — seek help from an adult, report it to the platform (Facebook, Instagram, TikTok have mechanisms for this) and to the competent institutions. Your dignity and privacy are important and protected by law."
+    },
+    {
+      "id": "q004",
+      "age_group": 2,
+      "prompt": "Which term indicates the false portrayal of identity on the internet?",
+      "options": [
+        "Firewall",
+        "Catfishing",
+        "Fishing",
+        "VPN"
+      ],
+      "correct_index": 1,
+      "help": "Catfishing occurs when someone pretends to be another person, usually with the goal of building trust, deceiving, or exploiting someone. Fake profiles often use stolen photos and invented information. Therefore, always check who you're talking to and don't immediately trust strangers online."
+    },
+    {
+      "id": "q036",
+      "age_group": 3,
+      "prompt": "Which term indicates the false portrayal of identity on the internet?",
+      "options": [
+        "Firewall",
+        "Catfishing",
+        "Fishing",
+        "VPN"
+      ],
+      "correct_index": 1,
+      "help": "Catfishing occurs when someone pretends to be another person, usually with the goal of building trust, deceiving, or exploiting someone. Fake profiles often use stolen photos and invented information. Therefore, always check who you're talking to and don't immediately trust strangers online."
+    },
+    {
+      "id": "q005",
+      "age_group": 3,
+      "prompt": "The \"S\" in https:// indicates that the page is:",
+      "options": [
+        "Super fast.",
+        "Secure connection – the data between you and the page is encrypted and protected.",
+        "Free.",
+        "State-certified."
+      ],
+      "correct_index": 1,
+      "help": "https means that the connection between your device and the page is encrypted, so others cannot easily 'eavesdrop' on the data you send (e.g., passwords or messages). However, this does not guarantee that the page itself is secure, so be careful with fake websites even if they have 'https'."
+    },
+    {
+      "id": "q006",
+      "age_group": 2,
+      "prompt": "What should I do if someone is spreading lies and untruths about me online?",
+      "options": [
+        "Ignore it and pretend it's not important.",
+        "Respond with arguments and insults.",
+        "Gather evidence, report/block, and seek help from an adult or responsible institutions.",
+        "Post similar lies about that person."
+      ],
+      "correct_index": 2,
+      "help": "If someone is spreading lies or insults about you, don't respond with arguments or insults. Instead, preserve evidence (pictures, links) and report the problem to the social network or to a trusted adult. This way you can quickly and safely stop the situation and prevent it from spreading further."
+    },
+    {
+      "id": "q037",
+      "age_group": 3,
+      "prompt": "What should I do if someone is spreading lies and untruths about me online?",
+      "options": [
+        "Ignore it and pretend it's not important.",
+        "Respond with arguments and insults.",
+        "Gather evidence, report/block, and seek help from an adult or responsible institutions.",
+        "Post similar lies about that person."
+      ],
+      "correct_index": 2,
+      "help": "If someone is spreading lies or insults about you, don't respond with arguments or insults. Instead, preserve evidence (pictures, links) and report the problem to the social network or to a trusted adult. This way you can quickly and safely stop the situation and prevent it from spreading further."
+    },
+    {
+      "id": "q007",
+      "age_group": 2,
+      "prompt": "If someone calls you on the phone pretending to be technical support and asks you to enter your password or other personal information on a link they'll send, you should:",
+      "options": [
+        "Tell them so they can help fix your account.",
+        "Check its legitimacy and never reveal your password over the phone.",
+        "Silence the call and click the link they send.",
+        "Send them a screenshot of all your passwords."
+      ],
+      "correct_index": 1,
+      "help": "Legitimate organizations never ask for passwords over the phone — always verify through official channels."
+    },
+    {
+      "id": "q038",
+      "age_group": 3,
+      "prompt": "If someone calls you on the phone pretending to be technical support and asks you to enter your password or other personal information on a link they'll send, you should:",
+      "options": [
+        "Tell them so they can help fix your account.",
+        "Check its legitimacy and never reveal your password over the phone.",
+        "Silence the call and click the link they send.",
+        "Send them a screenshot of all your passwords."
+      ],
+      "correct_index": 1,
+      "help": "Legitimate organizations never ask for passwords over the phone — always verify through official channels."
+    },
+    {
+      "id": "q008",
+      "age_group": 3,
+      "prompt": "Are public Wi‑Fi networks that don’t require a password safe?",
+      "options": [
+        "Yes, always.",
+        "Only if it's 'free_wifi'.",
+        "Yes, if many people are connected.",
+        "No, public unencrypted networks are risky and someone could monitor or intercept the data you send."
+      ],
+      "correct_index": 3,
+      "help": "Public Wi‑Fi networks (in cafes, schools, shopping malls) often lack protection. This means anyone connected could potentially monitor your activities, see the pages you open, or even steal your data (passwords, messages, card details). Therefore, do not log into sensitive accounts when using public Wi‑Fi. If you must, use a VPN or mobile data, and always enable two‑factor authentication (2FA) for extra protection."
+    },
+    {
+      "id": "q009",
+      "age_group": 2,
+      "prompt": "Which of the following is best practice when creating a password?",
+      "options": [
+        "Using the same password for all sites",
+        "A short password of 4‑6 letters",
+        "A long password with letters, uppercase/lowercase, numbers, and symbols",
+        "A password consisting only of a pet's name"
+      ],
+      "correct_index": 2,
+      "help": "Strong passwords are long and mix different types of characters — this makes them much harder to guess."
+    },
+    {
+      "id": "q039",
+      "age_group": 3,
+      "prompt": "Which of the following is best practice when creating a password?",
+      "options": [
+        "Using the same password for all sites",
+        "A short password of 4‑6 letters",
+        "A long password with letters, uppercase/lowercase, numbers, and symbols",
+        "A password consisting only of a pet's name"
+      ],
+      "correct_index": 2,
+      "help": "Strong passwords are long and mix different types of characters — this makes them much harder to guess."
+    },
+    {
+      "id": "q010",
+      "age_group": 2,
+      "prompt": "Which of the following is a warning sign that a website may be a scam?",
+      "options": [
+        "The site has a clear address with https",
+        "The site requests personal data without reason and has many spelling mistakes",
+        "The site has contact details and a company address",
+        "The site includes educational resources"
+      ],
+      "correct_index": 1,
+      "help": "Suspicious websites often contain errors, unusual data requests, or fake contact information."
+    },
+    {
+      "id": "q040",
+      "age_group": 3,
+      "prompt": "Which of the following is a warning sign that a website may be a scam?",
+      "options": [
+        "The site has a clear address with https",
+        "The site requests personal data without reason and has many spelling mistakes",
+        "The site has contact details and a company address",
+        "The site includes educational resources"
+      ],
+      "correct_index": 1,
+      "help": "Suspicious websites often contain errors, unusual data requests, or fake contact information."
+    },
+    {
+      "id": "q011",
+      "age_group": 2,
+      "prompt": "What is \"malicious software\" (malware)?",
+      "options": [
+        "An application that increases computer speed",
+        "A program designed to harm or steal data",
+        "Data protection law",
+        "A type of antivirus software"
+      ],
+      "correct_index": 1,
+      "help": "Malware includes viruses, ransomware, spyware, and other programs that can damage devices or privacy."
+    },
+    {
+      "id": "q041",
+      "age_group": 3,
+      "prompt": "What is \"malicious software\" (malware)?",
+      "options": [
+        "An application that increases computer speed",
+        "A program designed to harm or steal data",
+        "Data protection law",
+        "A type of antivirus software"
+      ],
+      "correct_index": 1,
+      "help": "Malware includes viruses, ransomware, spyware, and other programs that can damage devices or privacy."
+    },
+    {
+      "id": "q012",
+      "age_group": 2,
+      "prompt": "What is phishing?",
+      "options": [
+        "A type of legitimate advertising",
+        "An attack where they send you fake messages to obtain your data",
+        "An application for password protection",
+        "A method for fast song downloads"
+      ],
+      "correct_index": 1,
+      "help": "Phishing messages look real but aim to trick you into giving passwords or personal data."
+    },
+    {
+      "id": "q042",
+      "age_group": 3,
+      "prompt": "What is phishing?",
+      "options": [
+        "A type of legitimate advertising",
+        "An attack where they send you fake messages to obtain your data",
+        "An application for password protection",
+        "A method for fast song downloads"
+      ],
+      "correct_index": 1,
+      "help": "Phishing messages look real but aim to trick you into giving passwords or personal data."
+    },
+    {
+      "id": "q013",
+      "age_group": 2,
+      "prompt": "Rewrite the password to make it valid and more secure: summer2024",
+      "options": [
+        "@Summer2024@!",
+        "summer_2024",
+        "summer2024pass"
+      ],
+      "correct_index": 0,
+      "help": "Adding uppercase letters, symbols, and numbers makes the password significantly stronger."
+    },
+    {
+      "id": "q014",
+      "age_group": 2,
+      "prompt": "Some known and unknown people are mocking me on social media. How should I proceed?",
+      "options": [
+        "Ignore and do nothing.",
+        "Respond with insults to get revenge.",
+        "Capture evidence (screenshots), report to the platform, and ask an adult for help.",
+        "Delete your friends and that's it."
+      ],
+      "correct_index": 2,
+      "help": "Capture proof and report — it's a constructive way to protect yourself, and talking to a trusted person helps with support."
+    },
+    {
+      "id": "q015",
+      "age_group": 2,
+      "prompt": "A teacher slipped and someone recorded a video. The video reached you. Will you share it?",
+      "options": [
+        "Yes, so everyone can laugh.",
+        "Yes, if it's funny and you remove the teacher's name.",
+        "No, do not share it and report it if it's offensive or violates privacy.",
+        "Yes, but only with your best friend."
+      ],
+      "correct_index": 2,
+      "help": "Sharing such videos can be harmful and unethical — it's best not to share and to report it if it's abusive."
+    },
+    {
+      "id": "q016",
+      "age_group": 2,
+      "prompt": "For what reason should you give your password to others?",
+      "options": [
+        "So they can log into your profile when you have no internet.",
+        "The password is personal and must not be shared — risk of misuse.",
+        "So they can tell you if you forget it.",
+        "So they can \"help\" in games."
+      ],
+      "correct_index": 1,
+      "help": "Passwords protect your privacy and accounts — sharing them is risky."
+    },
+    {
+      "id": "q017",
+      "age_group": 2,
+      "prompt": "\"No one could ever hack me if…\" — complete the sentence most wisely:",
+      "options": [
+        "…I use the same easy password for everything.",
+        "…I’m careful where I log in and don't open suspicious links.",
+        "…I have strong and unique passwords.",
+        "…I share passwords only with friends."
+      ],
+      "correct_index": [1,2],
+      "help": "The most realistic protection is a combination of strong passwords; nothing gives 100% guarantee, but it significantly reduces the risk."
+    },
+    {
+      "id": "q018",
+      "age_group": 2,
+      "prompt": "You want to share a video of yourself online, but you're unsure. Who should you ask before doing it?",
+      "options": [
+        "A stranger who writes comments.",
+        "A parent, trusted teacher, or a friend you trust.",
+        "Everyone you see in the group.",
+        "You don't need to ask anyone."
+      ],
+      "correct_index": 1,
+      "help": "Ask an adult or trusted person for their opinion — they can help you assess the risk."
+    },
+    {
+      "id": "q019",
+      "age_group": 2,
+      "prompt": "What kind of password is best to use?",
+      "options": [
+        "Short and easy to remember (e.g., 1234).",
+        "Long, unique, with uppercase/lowercase letters, numbers, and symbols.",
+        "The same for all accounts.",
+        "A favorite song lyric."
+      ],
+      "correct_index": 1,
+      "help": "Long and complex passwords with uniqueness significantly increase the level of security."
+    },
+    {
+      "id": "q020",
+      "age_group": 2,
+      "prompt": "If someone creates a social media profile in your name (a fake profile), you should:",
+      "options": [
+        "Pretend the profile doesn't exist.",
+        "Block and report the profile to the platform and inform your closest friends/family.",
+        "Make more fake profiles yourself.",
+        "Write to them to delete it."
+      ],
+      "correct_index": 1,
+      "help": "Reporting and blocking is an official step, and informing close ones helps prevent them from being deceived."
+    },
+    {
+      "id": "q021",
+      "age_group": 2,
+      "prompt": "If the fake profile damages your reputation and spreads falsehoods about you, you should:",
+      "options": [
+        "Ignore it until it stops.",
+        "Gather evidence (screenshots) and contact a responsible person or the school service.",
+        "Write a threatening message to the owner of the fake profile.",
+        "Change your picture and name."
+      ],
+      "correct_index": 1,
+      "help": "Document and officially report — that is the proper way to solve the problem."
+    },
+    {
+      "id": "q022",
+      "age_group": 2,
+      "prompt": "Is it always safe to download music, videos, and other content for free from the internet?",
+      "options": [
+        "Yes, it's always legal and safe.",
+        "No, if it's not from an official/licensed source it may be piracy or a dangerous virus.",
+        "Yes, but only if you need it for a school project.",
+        "Only if it's available in a chat group."
+      ],
+      "correct_index": 1,
+      "help": "Download from official and licensed sources to avoid legal and security problems."
+    },
+    {
+      "id": "q023",
+      "age_group": 2,
+      "prompt": "Chat groups are great for making new friends, but:",
+      "options": [
+        "It's always safe to accept any invitation and make new online friendships.",
+        "You should be cautious and not share personal information.",
+        "Never talk there.",
+        "Don't share passwords, photos, or personal data, even with people who seem friendly."
+      ],
+      "correct_index": [1,3],
+      "help": "Chat groups can be fun and useful, but you should always be careful about what you share."
+    },
+    {
+      "id": "q024",
+      "age_group": 2,
+      "prompt": "Which password is hardest to crack?",
+      "options": [
+        "password123",
+        "catAnddog",
+        "Gj7!p4#Rz9&Lx",
+        "samoime"
+      ],
+      "correct_index": 2,
+      "help": "Long, random, and complex passwords with different character types are the hardest to hack."
+    },
+    {
+      "id": "q025",
+      "age_group": 1,
+      "prompt": "\"I've heard of something called the internet, but I don't know what it is. Can you explain it to me?\"",
+      "options": [
+        "A network that connects computers and phones all over the world",
+        "Just a game we play on the phone",
+        "A TV channel with cartoons",
+        "A robot that lives in the computer"
+      ],
+      "correct_index": 0,
+      "help": "The internet is a big network through which computers and phones exchange information — videos, games, songs, and messages."
+    },
+    {
+      "id": "q026",
+      "age_group": 1,
+      "prompt": "\"I found news online about chocolate that never melts! But are all things on the internet true?\"",
+      "options": [
+        "Yes, they're always accurate",
+        "No, there are both true and false things",
+        "Everything a child writes is true",
+        "Only videos are true"
+      ],
+      "correct_index": 1,
+      "help": "There is both true and false information on the internet. So always check with an adult whether something is true."
+    },
+    {
+      "id": "q027",
+      "age_group": 1,
+      "prompt": "\"Hey, someone online asked me where I live. What should I do?\"",
+      "options": [
+        "Tell them my name, address, and password",
+        "Tell them what I'm having for lunch",
+        "Tell them I have a new pen",
+        "Don't reply and immediately tell an adult"
+      ],
+      "correct_index": 3,
+      "help": "Personal information is your name, address, phone number, and password. These things are secret and you shouldn't tell them on the internet."
+    },
+    {
+      "id": "q028",
+      "age_group": 1,
+      "prompt": "\"I want to enter a new game, but it asks for a password. What is a password?\"",
+      "options": [
+        "A secret combination of letters and numbers",
+        "My favorite animal",
+        "A picture on the computer",
+        "My name"
+      ],
+      "correct_index": 0,
+      "help": "A password is a secret you use to enter a game or a page. It should be long and strong so others can't guess it."
+    },
+    {
+      "id": "q029",
+      "age_group": 1,
+      "prompt": "\"I got a message from someone I don't know. What should I do?\"",
+      "options": [
+        "Tell them where I live",
+        "Don't reply and tell an adult",
+        "Send them my picture so they can see who I am",
+        "Give them my password"
+      ],
+      "correct_index": 1,
+      "help": "If a stranger writes to you, it could be dangerous. The safest thing is not to reply and immediately tell an adult."
+    },
+    {
+      "id": "q030",
+      "age_group": 1,
+      "prompt": "\"I've heard of a place called the internet, but I don't know where to find it. Can you tell me how to go online?\"",
+      "options": [
+        "Phone",
+        "Laptop or tablet",
+        "PlayStation",
+        "All of the above"
+      ],
+      "correct_index": 3,
+      "help": "The internet is a big network that connects computers, phones, and other devices all over the world. With the internet you can watch videos, play games, learn, and talk to people."
+    },
+    {
+      "id": "q031",
+      "age_group": 1,
+      "prompt": "\"I want to download a new game I found online, but I don't know if it's safe. What should I do?\"",
+      "options": [
+        "Download it right away",
+        "Download it from any page",
+        "Ask an adult and download it only from a safe store (Play Store/App Store)",
+        "Download a game sent to me by a stranger"
+      ],
+      "correct_index": 2,
+      "help": "Games should be downloaded only from safe stores. If you download from an unknown page, it could be dangerous for your phone."
+    },
+    {
+      "id": "q032",
+      "age_group": 1,
+      "prompt": "\"I'm watching a YouTube video and in the comments a stranger writes: 'Tell me how old you are.' What should I do?\"",
+      "options": [
+        "Reply immediately",
+        "Tell them also where I live",
+        "Don't reply and tell an adult",
+        "Give them my picture"
+      ],
+      "correct_index": 2,
+      "help": "Unknown people can write in comments. Never share personal information there."
+    },
+    {
+      "id": "q033",
+      "age_group": 1,
+      "prompt": "\"I want to watch videos on YouTube, but some look scary. What should I do?\"",
+      "options": [
+        "Watch them even if I'm uncomfortable",
+        "Turn off the video and tell an adult",
+        "Share them with friends",
+        "Write a comment with bad words"
+      ],
+      "correct_index": 1,
+      "help": "Not all YouTube videos are for children. If something looks scary, it's best to turn it off and tell an adult."
+    },
+    {
+      "id": "q034",
+      "age_group": 1,
+      "prompt": "What should you do if someone insults you or writes bad words to you online?",
+      "options": [
+        "Reply with even worse words.",
+        "Tell a parent, teacher, or a trusted adult.",
+        "Ignore it and don't tell anyone.",
+        "Share it with friends to laugh about it."
+      ],
+      "correct_index": 1,
+      "help": "When someone behaves badly online, the most important thing is to immediately tell an adult who can help. Never respond with bad words — that could make the situation worse."
+    }
+  ]
+}

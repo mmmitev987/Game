@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "version": 2,
+    "locale": "en",
+    "type": "drag_and_drop"
+  },
+  "questions": [
+    {
+      "id": "q042",
+      "age_group": 1,
+      "prompt": "Connect what is safe and what is unsafe to share with someone on the internet.",
+      "pairs": [
+        {
+          "left": "Name",
+          "right": "Safe to share with friends",
+          "hint": "General information — usually it’s okay to tell your name, but don’t add address or phone number."
+        },
+        {
+          "left": "Address",
+          "right": "Location where you live",
+          "hint": "Address reveals where you live — do not share it publicly or with strangers."
+        },
+        {
+          "left": "Favorite cartoon",
+          "right": "Safe to share with friends",
+          "hint": "Hobbies and interests are general things and are safe to share."
+        },
+        {
+          "left": "Password",
+          "right": "Secret combination for your account",
+          "hint": "Password is a secret for logging into a profile/game — never tell it to others."
+        }
+      ]
+    },
+    {
+      "id": "q043",
+      "age_group": 2,
+      "prompt": "Connect what is safe and what is unsafe to share with someone on the internet.",
+      "pairs": [
+        {
+          "left": "Name",
+          "right": "Safe to share with friends",
+          "hint": "General information — usually it’s okay to tell your name, but don’t add address or phone number."
+        },
+        {
+          "left": "Address",
+          "right": "Location where you live",
+          "hint": "Address reveals where you live — do not share it publicly or with strangers."
+        },
+        {
+          "left": "Favorite cartoon",
+          "right": "Safe to share with friends",
+          "hint": "Hobbies and interests are general things and are safe to share."
+        },
+        {
+          "left": "Password",
+          "right": "Secret combination for your account",
+          "hint": "Password is a secret for logging into a profile/game — never tell it to others."
+        }
+      ]
+    },
+    {
+      "id": "q044",
+      "age_group": 1,
+      "prompt": "Choose which explanation matches which action:",
+      "pairs": [
+        {
+          "left": "Creating a profile",
+          "right": "I ask an adult for help",
+          "hint": "Ask an adult for privacy settings and safe data entry."
+        },
+        {
+          "left": "New password",
+          "right": "I create a new secret combination",
+          "hint": "Make a long and unique password (mix of letters/numbers/symbols)."
+        },
+        {
+          "left": "Downloading a game",
+          "right": "I always download only from safe sites",
+          "hint": "Use official stores (Play Store/App Store) to avoid viruses."
+        },
+        {
+          "left": "Watching a video",
+          "right": "I check if the video is for children",
+          "hint": "Pay attention to content/age rating and ask an adult if unsure."
+        }
+      ]
+    },
+    {
+      "id": "q045",
+      "age_group": 2,
+      "prompt": "Choose which explanation matches which action:",
+      "pairs": [
+        {
+          "left": "Creating a profile",
+          "right": "I ask an adult for help",
+          "hint": "Ask an adult for privacy settings and safe data entry."
+        },
+        {
+          "left": "New password",
+          "right": "I create a new secret combination",
+          "hint": "Make a long and unique password (mix of letters/numbers/symbols)."
+        },
+        {
+          "left": "Downloading a game",
+          "right": "I always download only from safe sites",
+          "hint": "Use official stores (Play Store/App Store) to avoid viruses."
+        },
+        {
+          "left": "Watching a video",
+          "right": "I check if the video is for children",
+          "hint": "Pay attention to content/age rating and ask an adult if unsure."
+        }
+      ]
+    },
+    {
+      "id": "q048",
+      "age_group": 2,
+      "prompt": "Connect the security terms with their meanings.",
+      "pairs": [
+        {
+          "left": "Password",
+          "right": "Secret combination of letters and numbers you use to log in",
+          "hint": "Password — think of a secret only you know. Don’t tell it to others."
+        },
+        {
+          "left": "Phishing",
+          "right": "Fake message or email that tries to trick you into giving data",
+          "hint": "Phishing messages often say you’ve won a prize or ask you to enter a password — be careful and ask an adult."
+        },
+        {
+          "left": "Antivirus",
+          "right": "Program that scans the computer and detects viruses",
+          "hint": "Antivirus is like a shield for your device — helps remove dangerous files and keep the device safer."
+        },
+        {
+          "left": "Username",
+          "right": "Name you use to log into a profile or game",
+          "hint": "Username should be fun, but don’t reveal real name or age."
+        }
+      ]
+    },
+    {
+      "id": "q049",
+      "age_group": 2,
+      "prompt": "Connect the action with the correct advice.",
+      "pairs": [
+        {
+          "left": "Online shopping",
+          "right": "Check if the site has \"https\" and a lock symbol",
+          "hint": "Before buying, check if the website is secure (https and lock) and use trusted stores."
+        },
+        {
+          "left": "Downloading games",
+          "right": "Always download only from official stores (Play Store, App Store)",
+          "hint": "Official stores have verification and lower risk of malicious apps."
+        },
+        {
+          "left": "Clicking ads",
+          "right": "Don’t click on ads promising money, gifts, or free phones",
+          "hint": "Ads that promise big prizes are often scams or contain dangerous links."
+        },
+        {
+          "left": "Setting a password",
+          "right": "Create a strong password with uppercase/lowercase letters, numbers, and symbols",
+          "hint": "Use a long and unique password for each account and don’t share it."
+        }
+      ]
+    },
+    {
+      "id": "q050",
+      "age_group": 2,
+      "prompt": "Connect the term with its meaning.",
+      "pairs": [
+        {
+          "left": "Link",
+          "right": "Word or image you click on that takes you to another internet page",
+          "hint": "Links lead to other pages — hover or ask an adult before clicking if unsure."
+        },
+        {
+          "left": "Chat",
+          "right": "Conversation via messages with a friend or adult on the internet",
+          "hint": "Chat is a written conversation; don’t share personal data with strangers."
+        },
+        {
+          "left": "Profile",
+          "right": "Your personal page or account where your picture and information about you are",
+          "hint": "Profile displays your picture and information — check what you post."
+        },
+        {
+          "left": "Email",
+          "right": "Internet mailbox where you send and receive messages",
+          "hint": "Email is like internet mail — don’t open suspicious attachments and don’t give passwords via messages."
+        }
+      ]
+    },
+    {
+      "id": "q053",
+      "age_group": 2,
+      "prompt": "Connect the internet terms with their meanings.",
+      "pairs": [
+        {
+          "left": "Web address",
+          "right": "Exact location of a web page, e.g., https://www.facebook.com",
+          "hint": "Web address is the text you enter in the browser to access a page."
+        },
+        {
+          "left": "HTTPS",
+          "right": "Secure version of internet protocol that encrypts data",
+          "hint": "HTTPS uses encryption (with a lock symbol) to protect data between you and the website."
+        },
+        {
+          "left": "Wi-Fi",
+          "right": "Wireless network through which devices connect to the internet",
+          "hint": "Wi-Fi enables internet connection without cables, usually via a router."
+        },
+        {
+          "left": "Live streaming",
+          "right": "Transmission of video or audio in real time via the internet",
+          "hint": "Live streaming is broadcasting or watching live video — e.g., YouTube Live or TikTok Live."
+        }
+      ]
+    },
+    {
+      "id": "q054",
+      "age_group": 3,
+      "prompt": "Connect the internet terms with their meanings.",
+      "pairs": [
+        {
+          "left": "Web address",
+          "right": "Exact location of a web page, e.g., https://www.facebook.com",
+          "hint": "Web address is the text you enter in the browser to access a page."
+        },
+        {
+          "left": "HTTPS",
+          "right": "Secure version of internet protocol that encrypts data",
+          "hint": "HTTPS uses encryption (with a lock symbol) to protect data between you and the website."
+        },
+        {
+          "left": "Wi-Fi",
+          "right": "Wireless network through which devices connect to the internet",
+          "hint": "Wi-Fi enables internet connection without cables, usually via a router."
+        },
+        {
+          "left": "Live streaming",
+          "right": "Transmission of video or audio in real time via the internet",
+          "hint": "Live streaming is broadcasting or watching live video — e.g., YouTube Live or TikTok Live."
+        }
+      ]
+    },
+    {
+      "id": "q055",
+      "age_group": 3,
+      "prompt": "Connect the terms with security risks.",
+      "pairs": [
+        {
+          "left": "Phishing",
+          "right": "Fake messages or pages trying to trick you into sharing personal data",
+          "hint": "Phishing is when an attacker sends fake messages to get passwords or card numbers."
+        },
+        {
+          "left": "Catfishing",
+          "right": "Fake profile pretending to be another person",
+          "hint": "Catfishing is when someone uses a fake identity for fraud or manipulation."
+        },
+        {
+          "left": "Malware",
+          "right": "Program that can harm your computer or steal data",
+          "hint": "Malware is malicious software that steals information or damages devices."
+        },
+        {
+          "left": "Deepfake",
+          "right": "Videos or photos altered with artificial intelligence to look real",
+          "hint": "Deepfake uses AI to alter video or image so it looks real, but isn’t."
+        }
+      ]
+    },
+    {
+      "id": "q056",
+      "age_group": 3,
+      "prompt": "Connect the terms with the correct steps for dealing with online bullying.",
+      "pairs": [
+        {
+          "left": "Online bullying",
+          "right": "Offensive, threatening, or humiliating behavior on the internet",
+          "hint": "Online bullying can happen through messages, comments, images, or videos that harm someone."
+        },
+        {
+          "left": "Reporting",
+          "right": "Sending evidence and screenshots to the platform, teacher, or institution",
+          "hint": "Every social media has a 'Report' option — use it to protect yourself."
+        },
+        {
+          "left": "Support",
+          "right": "Talking to a parent, psychologist, or trusted person",
+          "hint": "If you feel bad because of bullying, talk to someone who will listen and understand."
+        },
+        {
+          "left": "Understanding",
+          "right": "Be aware that no one deserves to be humiliated, help instead of laughing",
+          "hint": "If you see someone being bullied, support them — don’t ignore or mock them."
+        }
+      ]
+    },
+    {
+      "id": "q057",
+      "age_group": 3,
+      "prompt": "Connect the cybersecurity terms with their true meaning.",
+      "pairs": [
+        {
+          "left": "Digital footprint",
+          "right": "All information you leave on the internet – posts, comments, searches, photos",
+          "hint": "Everything you do online leaves a trace. Even deleted posts may remain stored somewhere in some database."
+        },
+        {
+          "left": "IP address",
+          "right": "Unique number that identifies your device when connecting to the internet",
+          "hint": "IP address is like the address of your home, but for the internet — shows where you are connecting from."
+        },
+        {
+          "left": "Cookies",
+          "right": "Small files that websites keep to remember your activities or settings",
+          "hint": "Cookies are used to remember logins, preferred language, but also to track your online behavior."
+        },
+        {
+          "left": "Encryption",
+          "right": "Process of converting data into a code that can only be read with a special key",
+          "hint": "Encryption protects your conversations, passwords, and messages from unauthorized people."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "version": 3,
+    "locale": "en",
+    "type": "image_mcq"
+  },
+  "questions": [
+    {
+      "id": "q058",
+      "age_group": 1,
+      "prompt": "I received this message on my phone, what should I do?",
+      "text": "Congratulations! You have been randomly selected as the winner of the latest iPhone 17! Please confirm your identity by replying to this message. You have only 24 hours to claim the prize, otherwise it will be given to someone else.",
+      "options": [
+        "Reply immediately with my information so someone else doesn't take my phone",
+        "Not reply because I don't know who contacted me and tell an adult"
+      ],
+      "correct_index": 1,
+      "help": "Some messages on the internet or phone say you've won a prize (phone, toy, money), but they are fake. Their goal is to take your personal data or passwords. It's safest not to reply and tell a parent or teacher."
+    },
+    {
+      "id": "q059",
+      "age_group": 2,
+      "prompt": "I received this message on my phone, what should I do?",
+      "text": "Congratulations! You have been randomly selected as the winner of the latest iPhone 17! Please confirm your identity by replying to this message. You have only 24 hours to claim the prize, otherwise it will be given to someone else.",
+      "options": [
+        "Reply immediately with my information so someone else doesn't take my phone",
+        "Not reply because I don't know who contacted me and tell an adult"
+      ],
+      "correct_index": 1,
+      "help": "Some messages on the internet or phone say you've won a prize (phone, toy, money), but they are fake. Their goal is to take your personal data or passwords. It's safest not to reply and tell a parent or teacher."
+    },
+    {
+      "id": "q060",
+      "age_group": 3,
+      "prompt": "I received this message on my phone, what should I do?",
+      "text": "Congratulations! You have been randomly selected as the winner of the latest iPhone 17! Please confirm your identity by replying to this message. You have only 24 hours to claim the prize, otherwise it will be given to someone else.",
+      "options": [
+        "Reply immediately with my information so someone else doesn't take my phone",
+        "Not reply because I don't know who contacted me and tell an adult"
+      ],
+      "correct_index": 1,
+      "help": "Some messages on the internet or phone say you've won a prize (phone, toy, money), but they are fake. Their goal is to take your personal data or passwords. It's safest not to reply and tell a parent or teacher."
+    },
+    {
+      "id": "q061",
+      "age_group": 1,
+      "prompt": "I received this message from my best friend, what should I reply?",
+      "text": "A person I play online with, but don't know personally, wants to chat privately on an app. Should I accept?",
+      "options": [
+        "Accept and start a conversation, because you already know each other through the game.",
+        "Don't accept and talk to a parent, teacher, or trusted person"
+      ],
+      "correct_index": 1,
+      "help": "Even if a message seems to be from a friend, think about safety: confirm personally/within the game or ask an adult if something seems strange."
+    },
+    {
+      "id": "q062",
+      "age_group": 2,
+      "prompt": "I received this message from my best friend, what should I reply?",
+      "text": "A person I play online with, but don't know personally, wants to chat privately on an app. Should I accept?",
+      "options": [
+        "Accept and start a conversation, because you already know each other through the game.",
+        "Don't accept and talk to a parent, teacher, or trusted person"
+      ],
+      "correct_index": 1,
+      "help": "Even if a message seems to be from a friend, think about safety: confirm personally/within the game or ask an adult if something seems strange."
+    },
+    {
+      "id": "q063",
+      "age_group": 3,
+      "prompt": "I received this message from my best friend, what should I reply?",
+      "text": "A person I play online with, but don't know personally, wants to chat privately on an app. Should I accept?",
+      "options": [
+        "Accept and start a conversation, because you already know each other through the game.",
+        "Don't accept and talk to a parent, teacher, or trusted person"
+      ],
+      "correct_index": 1,
+      "help": "Even if a message seems to be from a friend, think about safety: confirm personally/within the game or ask an adult if something seems strange."
+    },
+    {
+      "id": "q064",
+      "age_group": 2,
+      "prompt": "I received a message saying I received some package, even though I haven't ordered anything, what should I do?",
+      "text": "You have received a large package at the post office. To pick it up, register at the following link: http://posta.mk",
+      "options": [
+        "Don't click the link, because it's suspicious and doesn't have HTTPS (secure connection). Delete the message and inform an adult.",
+        "Click the link and enter your personal data to receive the package."
+      ],
+      "correct_index": 0,
+      "help": "Legitimate websites of institutions always start with https:// and have a lock symbol. Links that start with http:// are not secure — don't enter data there and don't click on them. If you're not sure, check directly at the post office or ask an adult before doing anything."
+    },
+    {
+      "id": "q065",
+      "age_group": 3,
+      "prompt": "I received a message saying I received some package, even though I haven't ordered anything, what should I do?",
+      "text": "You have received a large package at the post office. To pick it up, register at the following link: http://posta.mk",
+      "options": [
+        "Don't click the link, because it's suspicious and doesn't have HTTPS (secure connection). Delete the message and inform an adult.",
+        "Click the link and enter your personal data to receive the package."
+      ],
+      "correct_index": 0,
+      "help": "Legitimate websites of institutions always start with https:// and have a lock symbol. Links that start with http:// are not secure — don't enter data there and don't click on them. If you're not sure, check directly at the post office or ask an adult before doing anything."
+    },
+    {
+      "id": "q066",
+      "age_group": 1,
+      "prompt": "I received a message saying I received some package, even though I haven't ordered anything, what should I do?",
+      "text": "You have received a large package at the post office. To pick it up, register at the following link: http://posta.mk",
+      "options": [
+        "Click the link and enter your personal data to receive the package.",
+        "Don't click the link, because it's suspicious and is probably some kind of scam. Immediately inform an adult."
+      ],
+      "correct_index": 1,
+      "help": "If you receive a message with a link saying you have a package, but you haven't ordered anything — don't open it! Tell a parent or teacher immediately."
+    },
+    {
+      "id": "q067",
+      "age_group": 2,
+      "prompt": "I received this message on Instagram — what should I do?",
+      "text": "Nobody likes you, everyone laughs at your posts. You better delete your profile, you're cringe.",
+      "options": [
+        "Reply back with an insult or sarcasm, to show them I don't care what they think.",
+        "Take a screenshot of the message, report the profile to the platform, and talk to a parent, teacher, or psychologist for support."
+      ],
+      "correct_index": 1,
+      "help": "Online insults can hurt a lot, even if you pretend they don't affect you. The smartest thing is not to engage in an argument, take a screenshot as evidence, and report the message. Talk to an adult or psychologist — you're not alone and help exists."
+    },
+    {
+      "id": "q068",
+      "age_group": 3,
+      "prompt": "I received this message on Instagram — what should I do?",
+      "text": "Nobody likes you, everyone laughs at your posts. You better delete your profile, you're cringe.",
+      "options": [
+        "Reply back with an insult or sarcasm, to show them I don't care what they think.",
+        "Take a screenshot of the message, report the profile to the platform, and talk to a parent, teacher, or psychologist for support."
+      ],
+      "correct_index": 1,
+      "help": "Online insults can hurt a lot, even if you pretend they don't affect you. The smartest thing is not to engage in an argument, take a screenshot as evidence, and report the message. Talk to an adult or psychologist — you're not alone and help exists."
+    },
+    {
+      "id": "q069",
+      "age_group": 3,
+      "prompt": "My friend sent me a message late at night. How should I handle it?",
+      "text": "I can't take it anymore, it's too hard for me. Nobody understands me... I think nothing makes sense anymore.",
+      "options": [
+        "Write something like 'don't exaggerate, it will pass' and not get involved, so I don't get dragged into a problem.",
+        "Reply calmly that I'm here for them, listen to them without judgment, and if I think it's necessary, tell an adult like a teacher or psychologist so they can get professional help."
+      ],
+      "correct_index": 1,
+      "help": "If a friend writes you a message with signs of distress or despair, it's serious. Don't ignore or downplay it. Show care, listen without judgment, and immediately seek help. Sometimes a simple 'I'm here for you' can make a big difference."
+    },
+    {
+      "id": "q070",
+      "age_group": 1,
+      "prompt": "My friend wrote that they're sad because nobody wants to play with them. What should I do?",
+      "text": "Nobody wants to be my friend today... Everyone is playing without me.",
+      "options": [
+        "Write that I'm sorry, tell them I'll play with them, and tell the teacher if they're very sad.",
+        "Not reply, it will pass by tomorrow."
+      ],
+      "correct_index": 0,
+      "help": "If a friend is sad, the nicest thing is to show them they're not alone. Tell them you want to play together and tell a teacher or parent if you think they need help."
+    },
+    {
+      "id": "q071",
+      "age_group": 2,
+      "prompt": "My friend wrote to me that she's being mocked in a group chat and doesn't want to go to school. How should I handle it?",
+      "text": "I can't read those messages in the group anymore. Everyone is laughing at me. I just want to stay home.",
+      "options": [
+        "Tell her to ignore the messages, it's nothing serious.",
+        "Show her that I support her, listen to her, take a screenshot, and report it to a teacher or parent."
+      ],
+      "correct_index": 1,
+      "help": "Online bullying can hurt a lot. Don't leave her alone — show her you support her and help her talk to a teacher or parent. If you have evidence, save it for reporting."
+    }
+  ]
+}

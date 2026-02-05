@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: New Table_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 7137410401c40cd4c849650e50890f94, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5754519478272
+    m_Localized: Use the left and right arrows to move through the different rooms.
+      Follow the white arrow and find all the missing puzzle pieces.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5754792108032
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5754796302336
+    m_Localized: How old are you?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5754796302337
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5754804690944
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5754804690945
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5754804690946
+    m_Localized: Effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5754804690947
+    m_Localized: Press E.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5754804690948
+    m_Localized: Press E to enter.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5754804690949
+    m_Localized: Go to another room.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334084707901440
+    m_Localized: Enter your name...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692054906036224
+    m_Localized: Check
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692893192216576
+    m_Localized: Match the terms with the corresponding phrases.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 712969811320832
+    m_Localized: Drag here
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10561104915443712
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10561448345055232
+    m_Localized: Effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10564925280464896
+    m_Localized: 'Score:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10565456065441792
+    m_Localized: Use the space button, A and D in order to move and jump, or use
+      the arrow keys. Reach score of 7000 in order to enter the room.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10566974382518272
+    m_Localized: Click the space button in order to jump while flying. Don't get
+      hit by the pipes and achieve a score of 5 in order to enter the next room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10567627276267520
+    m_Localized: Play Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10567850975277056
+    m_Localized: "Start Game\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10568625419956224
+    m_Localized: Move with W,A,S,D or the arrow keys. Reach a score of 2000 in order
+      to enter the next room. The score is incremented by eating the grey dots. If
+      you get eaten by a ghost then you lose one life. If you all lose 3 lives then
+      the game is restarted.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10570547975663616
+    m_Localized: You died
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10570795523485696
+    m_Localized: Play again
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

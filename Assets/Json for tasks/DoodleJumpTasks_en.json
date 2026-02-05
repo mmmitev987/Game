@@ -1,0 +1,11 @@
+{
+  "questions": [
+    {
+      "id": "doodle_jump_001",
+      "age_group": 1,
+      "prompt": "Score 1000 points in Doodle Jump to unlock the classroom!",
+      "required_score": 1000,
+      "help": "Jump on platforms and avoid falling. Higher platforms give more points!"
+    }
+  ]
+}

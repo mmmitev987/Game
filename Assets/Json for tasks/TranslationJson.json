@@ -1,0 +1,64 @@
+{
+  "translations": [
+    {
+      "macedonian": "здраво",
+      "english": "hello"
+    },
+    {
+      "macedonian": "да",
+      "english": "yes"
+    },
+    {
+      "macedonian": "не",
+      "english": "no"
+    },
+    {
+      "macedonian": "благодарам",
+      "english": "thank you"
+    },
+    {
+      "macedonian": "ве молам",
+      "english": "please"
+    },
+    {
+      "macedonian": "лозинка",
+      "english": "password"
+    },
+    {
+      "macedonian": "име",
+      "english": "name"
+    },
+    {
+      "macedonian": "адреса",
+      "english": "address"
+    },
+    {
+      "macedonian": "интернет",
+      "english": "internet"
+    },
+    {
+      "macedonian": "безбедно",
+      "english": "safe"
+    },
+    {
+      "macedonian": "небезбедно",
+      "english": "unsafe"
+    },
+    {
+      "macedonian": "споделиш",
+      "english": "share"
+    },
+    {
+      "macedonian": "пријатели",
+      "english": "friends"
+    },
+    {
+      "macedonian": "непознат",
+      "english": "stranger"
+    },
+    {
+      "macedonian": "возрасен",
+      "english": "adult"
+    }
+  ]
+}
