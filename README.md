@@ -24,7 +24,7 @@ Each location hides pieces of a puzzle and contains cybersecurity tasks to compl
 
 ### Unlocking New Areas
 
-The school yard is the default starting area. To gain access to the hallway and classrooms, the player must reach specific scores by completing the challenges in their current area.
+The school yard is the default starting area. To gain access to the hallway and classrooms, the player must play mini-games.
 
 ### Mini-Games (Access Challenges)
 
